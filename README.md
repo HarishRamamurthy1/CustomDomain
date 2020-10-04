@@ -1,2 +1,2 @@
 
-This has been created as the part of MIT Custom domin creation
+This is the part of MIT custom domain creation.
